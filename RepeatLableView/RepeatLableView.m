@@ -1,6 +1,6 @@
 //
 //  RepeatLableView.m
-//  test2
+//  RepeatLableView
 //
 //  Created by chenjie on 16/4/13.
 //  Copyright © 2016年 chenjie. All rights reserved.
