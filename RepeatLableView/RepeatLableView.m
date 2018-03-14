@@ -11,8 +11,7 @@
 @implementation RepeatLableView
 
 //用代码初始化
-- (instancetype)initWithFrame:(CGRect)frame
-{
+- (instancetype)initWithFrame:(CGRect)frame{
     if (self = [super initWithFrame:frame]) {
         
         _font = (_font == nil) ? [UIFont systemFontOfSize:15] : _font;
