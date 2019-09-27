@@ -1,2 +1,2 @@
 # RepeatLableView
-文字循环
+文字循环  
